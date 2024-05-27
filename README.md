@@ -21,9 +21,12 @@ This Python script was born from the frustration of clicking a button in an outd
 1. Download the contents of this repo and navigate to the screenshotinator directory using the terminal.
 2. (Optional) Once in the directory you might want to create and activate a virtual environment using venv.
 3. Install the dependancies:
-```bash
-pip install -r requirements.txt
-```
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+
+
 
 ### Usage
 1. Modify the script by specifying the following parameters:
@@ -32,9 +35,9 @@ pip install -r requirements.txt
    - **Time interval**: Specify the amount of time to wait between each repetition.
    - **Button click coordinates (optional)**: Provide the coordinates for any button that needs to be clicked in each repetition.
 2. Run the script:
-```bash
-python screenshotinator.py
-```
+    ```bash
+    python screenshotinator.py
+    ```
 
 ## Contributing
 1. Fork it!
