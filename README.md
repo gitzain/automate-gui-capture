@@ -39,6 +39,7 @@ TODO: Write usage instructions as below and delete this line
 
 ## Credits
 - Script created by <a href="https://iamzain.com">Zain Khan</a>
+- Inspired by <a href="https://medium.com/analytics-vidhya/automate-gui-clicks-and-save-screenshots-fcbc9d52a08c">Syed Meesam Ali</a>
 - Template for this README is <a href="https://github.com/gitzain/template-README">Template-README</a> created by <a href="https://iamzain.com">Zain Khan</a>
 
 ## License

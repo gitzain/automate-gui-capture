@@ -1,5 +1,3 @@
-#https://medium.com/analytics-vidhya/automate-gui-clicks-and-save-screenshots-fcbc9d52a08c
-
 import pyautogui, time
 
 repetitions = 100
