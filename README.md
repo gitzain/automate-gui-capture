@@ -1,4 +1,4 @@
-# automate-gui-capture
+# Screenshotinator
 Automate screenshot drudgery! This Python script captures your screen at set intervals, freeing you from repetitive clicking. Ideal for monitoring tasks or replacing tedious button mashing for screenshots.
 
 ## Table of content
