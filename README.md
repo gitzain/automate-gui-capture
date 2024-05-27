@@ -18,13 +18,23 @@ This Python script was born from the frustration of clicking a button in an outd
 ## Installation & Usage
 
 ### Installation
-TODO: Describe the installation process as below and delete this line
-1. Step 1 details here
-2. Step 2 details here
-3. Step 3 details here
+1. Download the contents of this repo and navigate to the screenshotinator directory using the terminal.
+2. (Optional) Once in the directory you might want to create and activate a virtual environment using venv.
+3. Install the dependancies:
+```bash
+pip install -r requirements.txt
+```
 
 ### Usage
-TODO: Write usage instructions as below and delete this line
+1. Modify the script by specifying the following parameters:
+   - **Coordinates of the screenshot area**: Define the region of the screen you want to capture.
+   - **Number of repetitions**: Set how many times you want the screenshot to be taken.
+   - **Time interval**: Specify the amount of time to wait between each repetition.
+   - **Button click coordinates (optional)**: Provide the coordinates for any button that needs to be clicked in each repetition.
+2. Run the script:
+```bash
+python screenshotinator.py
+```
 
 ## Contributing
 1. Fork it!
